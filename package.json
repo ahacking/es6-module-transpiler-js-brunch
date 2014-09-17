@@ -1,0 +1,24 @@
+{
+  "name": "es6-module-transpiler-js-brunch",
+  "version": "0.1.0",
+  "description": "Brunch plugin for es6-module-transpiler (Enhanced).",
+  "main": "index.js",
+  "author": "Andrew Hacking",
+  "license": "MIT",
+  "dependencies": {
+    "es6-module-transpiler": "0.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahacking/es6-module-transpiler-js-brunch.git"
+  },
+  "keywords": [
+    "es6",
+    "transpiler",
+    "brunch"
+  ],
+  "bugs": {
+    "url": "https://github.com/ahacking/es6-module-transpiler-js-brunch/issues"
+  },
+  "homepage": "https://github.com/ahacking/es6-module-transpiler-js-brunch"
+}
